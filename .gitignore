@@ -68,3 +68,6 @@ Thumbs.db
 # 安装包与编译产物
 *.exe
 python-3.14.5-amd64.exe
+
+# 临时发布脚本
+.mcp_batches/
