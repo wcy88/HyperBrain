@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Worktrees (managed by `git worktree`)
+.worktrees/
+tmp/
+
+# Node
+node_modules/
